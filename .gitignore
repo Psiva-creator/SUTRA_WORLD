@@ -2,5 +2,7 @@ node_modules
 dist
 .DS_Store
 *.log
-*.blend
 *.blend1
+drone_disaster_world.blend
+flooded_disaster_world_latest.blend
+medellin_apocalyptic_flood_world.blend
